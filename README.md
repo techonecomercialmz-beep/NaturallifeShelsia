@@ -70,7 +70,7 @@ Como Testar o Projeto Localmente
 
 1️⃣ Clonar o repositório
 
-git clone https://github.com/techonecomercialmz-beep
+git clone https://github.com/AnaTovele/NaturallifeShelsia
 NaturallifeShelsia.git
 
 2️⃣ Abrir os arquivos no navegador
