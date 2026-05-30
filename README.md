@@ -129,4 +129,4 @@ Este projeto é livre para estudos, personalização e uso educacional.
 
  Autor:
  
-Projeto desenvolvido por Shelsia Mundaze.
+Projeto desenvolvido por Ana Tovele.
